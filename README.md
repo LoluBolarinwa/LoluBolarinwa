@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lolu Bolarinwa</h1>
-<img align="right" alt="Coding" width="400" src="https://pixabay.com/photos/software-developer-web-developer-6521720/">
+<img align="right" alt="Coding" width="400" src="https://pixabay.com/static/frontend/3c346409d336d5f09a7f.svg">
 - 👨‍💻 All of my projects are available at [https://github.com/LoluBolarinwa/](https://github.com/LoluBolarinwa/)
 
 - 📝 I regularly write articles on [https://lolubolarinwa.hashnode.dev/](https://lolubolarinwa.hashnode.dev/)
