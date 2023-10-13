@@ -5,8 +5,8 @@
 - 👨‍💻 My projects are available at [https://github.com/LoluBolarinwa/](https://github.com/LoluBolarinwa/)
 
 - 📝 I write blog Articles on https://lolubolarinwa.hashnode.dev/
-- 🌱 I’m currently learning zero knowledge integration for decentralized Applications
-- 💞️ I’m looking collaborate on Building scalable Smart Contracts for modern Businesses
+- 🌱 I’m currently learning zero knowledge integration for decentralized Applications and collaborating on open-source projects
+- 💞️ I’m looking to collaborate on Building scalable Smart Contracts for modern Businesses
 - 📫 Email Me **lolubolarinwa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
